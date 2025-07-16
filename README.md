@@ -118,11 +118,6 @@ This repo is built around a **self-paced learning curriculum**:
 ## 📬 Connect With Me
 
 Hi, I’m **Krishna Bhatnagar**, an aspiring Machine Learning Engineer, undergrad at Georgia State University, and tech enthusiast 🚀
-
-- LinkedIn: [linkedin.com/in/krishna-bhatnagar](#)
-- Portfolio Website: [krishnabhat.dev](#)
-- Email: [kbhatnagar1@student.gsu.edu](mailto:kbhatnagar1@student.gsu.edu)
-
 ---
 
 ## ⭐ Star the Repo!
