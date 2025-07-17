@@ -23,7 +23,7 @@ This repository will eventually include **all fundamental and advanced ML topics
 |-------------------------------|------------------|-------------|
 | Linear Regression             | Regression       | ✅ Complete |
 | Multivariate Linear Regression| Regression       | ✅ Complete |
-| Logistic Regression           | Classification   | 🔄 In Progress |
+| Logistic Regression           | Classification   | ✅ Complete |
 | Decision Trees                | Both             | 🔄 Planned  |
 | Random Forests                | Ensemble         | 🔄 Planned  |
 | Gradient Boosting (XGBoost, LightGBM) | Ensemble | 🔄 Planned  |
@@ -92,6 +92,7 @@ This repo is built around a **self-paced learning curriculum**:
 | ML API for Prediction      | ML model deployed via REST API                  | Flask, Heroku            |
 | Streamlit ML Web App       | ML model with live input & output               | Streamlit, sklearn       |
 | Diabetes Risk Analyzer     | Health prediction model                         | sklearn, Streamlit       |
+| Tumor prediction model     | Predicts wether the tumor can cause cancer      | python, numpy            |
 
 ---
 
